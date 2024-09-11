@@ -1,1 +1,1 @@
-print("This file for testing")/home/project/frontend
+print("This file for testing")
